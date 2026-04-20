@@ -1,0 +1,16 @@
+{
+  "studentID": "new",
+  "name": "New check",
+  "results": {
+    "Maths": "77",
+    "Science": "77",
+    "English": "77",
+    "Sinhala": "77",
+    "History": "77",
+    "Buddhist": "77",
+    "Group01": "77",
+    "Group02": "77",
+    "Group03": "77"
+  },
+  "timestamp": "2026-04-20T11:38:31.707Z"
+}
