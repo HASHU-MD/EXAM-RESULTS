@@ -1,0 +1,16 @@
+{
+  "studentID": "STU-2026",
+  "name": "Hashan",
+  "results": {
+    "Maths": "50",
+    "Science": "50",
+    "English": "83",
+    "Sinhala": "72",
+    "History": "83",
+    "Religion": "83",
+    "ICT": "82",
+    "Commerce": "28",
+    "Art": "00"
+  },
+  "timestamp": "2026-04-20T10:07:46.997Z"
+}
