@@ -1,0 +1,16 @@
+{
+  "studentID": "eee",
+  "name": "eee",
+  "results": {
+    "Maths": "62",
+    "Science": "41",
+    "English": "62",
+    "Sinhala": "82",
+    "History": "14",
+    "Buddhist": "82",
+    "Group01": "00",
+    "Group02": "00",
+    "Group03": "00"
+  },
+  "timestamp": "2026-04-22T13:24:17.936Z"
+}
